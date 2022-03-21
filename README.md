@@ -1,5 +1,4 @@
-#Hello World!
-## I'm Kyle Hultberg
+## Hello World, I'm Kyle Hultberg
 
 I am an aspiring Software Engineer with a focus in Full Stack application development as well as Quality Assurance.
 
